@@ -1,1 +1,1 @@
-# idk
+Hi! This is just a simple calculator inside the terminal... I'm learning! For advice @tishor123 on telegram
